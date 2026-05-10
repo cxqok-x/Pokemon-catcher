@@ -207,12 +207,13 @@ The bot creator `@CXQOK` sits at **#1 on the global Telemon leaderboard** with o
 
 ---
 
-## 🙌 Credits
+## 🙌 
 
 **Designed & developed by [@CXQOK](https://t.me/cxqok)**
 
 Support / Questions → [@team7x_chat](https://t.me/team7x_chat)
 
+telegram ⚡
 ---
 
 <div align="center">
